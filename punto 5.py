@@ -23,4 +23,3 @@ print(f'El monto del descuento por seguro social es: ${seguro_social:,}')
 print(f'El monto del descuento por seguro forzoso es: ${seguro_forzoso:,}')
 print(f'El monto del descuento por caja de ahorro es: ${caja_ahorro:,}')
 print(f'El monto total a pagar al trabajador es: ${monto_total:,}')
-
