@@ -19,5 +19,5 @@ pagar = monto_prestamo + intereses
 cuotas_especiales = (pagar / 2) / 4
 cuotas_ordinarias = (pagar / 2) / 20
 print(f'El valor total a pagar por el prestamo sera de: ${pagar:,}')
-print(f'El valor de las cuotas especiales sera de: ${cuotas_especiales}')
-print(f'El valor de las cuotas ordinarias sera de: ${cuotas_ordinarias}')
+print(f'El valor de las cuotas especiales sera de: ${cuotas_especiales:,}')
+print(f'El valor de las cuotas ordinarias sera de: ${cuotas_ordinarias:,}')
